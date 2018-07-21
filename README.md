@@ -1,6 +1,9 @@
-# student-vue-project
+# training-vue-project
 
-> A Vue.js project
+> A Vue.js training project 
+
+# Link
+https://student-app-vue.firebaseapp.com
 
 ## Build Setup
 
